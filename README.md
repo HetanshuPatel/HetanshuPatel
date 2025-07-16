@@ -16,7 +16,7 @@
 - 📱 **Farm Direct App** – Flutter-based platform to connect Canadian farmers with local customers
 
 📫 Let's connect!
-- LinkedIn: linkedin.com/in/hetanshu-patel
+- LinkedIn: [linkedin.com/in/hetanshu-patel](https://www.linkedin.com/in/hetanshu-patel/)
 - Email: patel8qb@uwindsor.ca
 
 ---
